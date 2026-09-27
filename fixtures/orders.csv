@@ -1,0 +1,4 @@
+order,asset,severity,hours,skill
+Low,Fan,2,2,electrical
+High,Pump,5,3,mechanical
+Next,Pump,4,2,mechanical
